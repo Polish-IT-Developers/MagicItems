@@ -5,20 +5,20 @@ Supported versions (not tested): **1.16+**
 # ⚖️ Licensing
 This plugin is released under [GNU/GPL 3.0](https://github.com/Polish-IT-Developers/MagicItems/blob/main/LICENSE) conditions.
 
-#🖥️ Commands
-**/items [category]** - Opens special items menu (requires permission)
-**/knock [player] [value]** - Knocks player (requires permission)
-**/start-edycji** - Starts new season (requires permission)
+# 🖥️ Commands
+<br>**/items [category]** - Opens special items menu (requires permission)
+<br>**/knock [player] [value]** - Knocks player (requires permission)
+<br>**/start-edycji** - Starts new season (requires permission)
 
-#🔒 Permissions
+# 🔒 Permissions
 **items.admin** - Provides access to the special items menu
 **items.startedycji** - Provides access to starting new seasons
 **items.knock** - Provides access to knock players feature
 
-#🪓 Recipes
+# 🪓 Recipes
 Special items recipes can be found in RecipeManager class.
 
-#🧾 Items list
+# 🧾 Items list
 - Flash Bow
 - WitherGun
 - DragonGun
@@ -37,7 +37,7 @@ Special items recipes can be found in RecipeManager class.
 - Knock Shield
 - Shockwave Snowball
 
-#🧾 Other features
+# 🧾 Other features
 Hats:
 - Crown
 - Christmas Hat
@@ -46,6 +46,6 @@ Hats:
 Boss:
 - Necromancer
 
-#⚠️ Addiotional info
+# ⚠️ Addiotional info
 The project's code quality may be bad. Some of items listeners are based on other people's code!
 Using this for public use is not recommended.
