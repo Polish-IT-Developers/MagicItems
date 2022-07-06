@@ -1,0 +1,24 @@
+name: BanderasSMP-MagicItems
+main: me.awmeister.projectcore.main.Main
+version: 1.0
+api-version: 1.18
+authors: [AW_meister]
+description: Custom Items in Minecraft
+
+commands:
+  items:
+    description: Opens the admin's special items menu
+  start-edycji:
+    description: Starts server's edition
+  knock:
+    description: Knocks player with specifed value
+
+permissions:
+  items.startedycji:
+    description: Permission to start server's edition
+    default: op
+  items.admin:
+    description: Permission to access special items menu
+    default: op
+  items.knock:
+    description: Permission to access knock command
