@@ -11,9 +11,9 @@ This plugin is released under [GNU/GPL 3.0](https://github.com/Polish-IT-Develop
 <br>**/start-edycji** - Starts new season (requires permission)
 
 # 🔒 Permissions
-**items.admin** - Provides access to the special items menu
-**items.startedycji** - Provides access to starting new seasons
-**items.knock** - Provides access to knock players feature
+<br>**items.admin** - Provides access to the special items menu
+<br>**items.startedycji** - Provides access to starting new seasons
+<br>**items.knock** - Provides access to knock players feature
 
 # 🪓 Recipes
 Special items recipes can be found in RecipeManager class.
