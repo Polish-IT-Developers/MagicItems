@@ -38,13 +38,14 @@ Special items recipes can be found in RecipeManager class.
 - Shockwave Snowball
 
 # 🧾 Other features
+Boss:
+- Necromancer
+
 Hats:
 - Crown
 - Christmas Hat
 - Santa Claus Hat
 - Baseball Cap
-Boss:
-- Necromancer
 
 # ⚠️ Addiotional info
 The project's code quality may be bad. Some of items listeners are based on other people's code!
